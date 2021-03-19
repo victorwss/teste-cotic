@@ -15,6 +15,8 @@ Estamos numa branch!
 
 O Victor é muito mal. Ele cria conflitos demais!!!!!
 
+Estamos na branch main!
+
 Oi.... Conseguimos!!!! :)
 
 Uma coisinha ai qualquer =^.^=
